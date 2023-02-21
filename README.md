@@ -4,3 +4,5 @@ On one side it shows the recipe title, image and calories.
 Clicking on it, it will turn to the back showing an order list of ingredients.
 
 This is a React app, run "npm install" after you cloned it, and than "npm start" to view it.
+
+![Recipe search layout](https://alexandramuresan.ro/github/recipes.png)
